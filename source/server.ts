@@ -12,7 +12,6 @@ Métodos
     * PUT => Alterar uma informação
     * DELETE => Remover uma informação
     * PATCH => Alterar uma informação uma informação específica
-
 */
 app.get("/test", (request, response) => {
     //request => Tudo que entra
